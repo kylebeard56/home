@@ -2,17 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Personal iOS Projects
 
-[Project 1 Title](/sample_page)
+Scout
+<p style="font-size:12px">Location-based food and drink forum openly collecting data to deliver live, local specials and fun events to users.</p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Pace Chase](https://apps.apple.com/us/app/pace-chase/id1458293500)
+<p style="font-size:12px">Simple race pace and finish time calculator for runners of all levels.</p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Blue Ink
+<p style="font-size:12px">Sharable shopping list, pantry + fridge inventory, and dashboard for all readily available recipes.</p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -26,10 +29,4 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Proudly made in Greenville, SC, USA ❤️</p>

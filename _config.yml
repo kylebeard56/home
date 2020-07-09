@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kyle Garrison Beard # your name (or website title) here
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a fun solution.
   <br><br>
-  Second description 
+  8+ years of experience working with Native iOS SDK
+  5+ years experience with Objective-C (pre-Swift era)
+  3+ years of experience with Swift and UIKit
+  2+ years experiences with Google Firebase (Authentication, Realtime Database, Cloud Firestore)
+  2+ years experience with UI/UX Design and Wireframing (Adobe XD and Illustrator)
+  ~1 year experience with SwiftUI
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kgbeard/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-172307247-1 # your Google Analytics tracking ID here
