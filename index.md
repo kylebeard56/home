@@ -1,8 +1,15 @@
-## Portfolio
+## About Me
 
----
+Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a fun solution.
 
-### Personal iOS Projects
+8+ years of experience working with Native iOS SDK
+5+ years experience with Objective-C (pre-Swift era)
+3+ years of experience with Swift and UIKit
+2+ years experiences with Google Firebase (Authentication, Realtime Database, Cloud Firestore)
+2+ years experience with UI/UX Design and Wireframing (Adobe XD and Illustrator)
+~1 year experience with SwiftUI
+
+## Personal iOS Projects
 
 Scout
 <p style="font-size:12px">Location-based food and drink forum openly collecting data to deliver live, local specials and fun events to users.</p>
