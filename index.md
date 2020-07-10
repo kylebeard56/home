@@ -1,6 +1,6 @@
 ## About Me
 
-Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a memorable solution!
+<p style="font-size:16px">Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a memorable solution!
 
 * 8+ years of experience working with Native iOS SDK
 * 5+ years experience with Objective-C (pre-Swift era)
@@ -8,12 +8,12 @@ Ambitious and charismatic iOS developer always looking to explore new project op
 * 2+ years experiences with Google Firebase (Authentication, Realtime Database, Cloud Firestore)
 * 2+ years experience with UI/UX Design and Wireframing (Adobe XD and Illustrator)
 * ~1 year experience with SwiftUI
-
+<p>
 
 ## Personal iOS Projects
 
 ### Scout
-<p style="font-size:16px">Coming soon! This native iOS application serves as a location-based food and drink forum. It openly collects data from users and private venues/businesses to deliver live and local specials, deals, fun events to users.</p>
+<p style="font-size:16px">This native iOS application serves as a location-based food and drink forum. It openly collects data from users and private venues/businesses to deliver live and local specials, deals, fun events to users. Coming soon!</p>
 <img src="images/Scout@2x.png?raw=true"/>
 
 ---
