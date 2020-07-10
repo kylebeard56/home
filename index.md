@@ -1,14 +1,15 @@
 ## About Me
 
-<p style="font-size:16px">Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a memorable solution!
+<p style="font-size:16px">Ambitious and charismatic iOS developer always looking to explore new project opportunities for topics I'm strongly passionate towards. I believe all applications should instill a joyful experience in the end user through functional and aesthetic layouts, trusted performance, simplistic navigation, and most importantly - providing a memorable solution!<p>
 
-* 8+ years of experience working with Native iOS SDK
-* 5+ years experience with Objective-C (pre-Swift era)
-* 3+ years of experience with Swift and UIKit
-* 2+ years experiences with Google Firebase (Authentication, Realtime Database, Cloud Firestore)
-* 2+ years experience with UI/UX Design and Wireframing (Adobe XD and Illustrator)
-* ~1 year experience with SwiftUI
-<p>
+<ul style="font-size:16px">
+  <li>8+ years experience working with Native iOS SDK</li>
+  <li>5+ years experience with Objective-C (pre-Swift era)</li>
+  <li>3+ years experience with Swift and UIKit</li>
+  <li>2+ years experience with Google Firebase (Authentication, Realtime Database, Cloud Firestore)</li>
+  <li>2+ years experience with UI/UX Design and Wireframing (Adobe XD and Illustrator)</li>
+  <li>1 year experience with SwiftUI</li>
+</ul>
 
 ## Personal iOS Projects
 
