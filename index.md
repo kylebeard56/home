@@ -17,8 +17,9 @@ Ambitious and charismatic iOS developer always looking to explore new project op
 <img src="images/Scout@2x.png?raw=true"/>
 
 ---
-### [Pace Chase](https://apps.apple.com/us/app/pace-chase/id1458293500)
+### Pace Chase
 <p style="font-size:16px">Live worldwide in the App Store (for free), this native iOS application which serves as a simple race pace and finish time calculator for runners of all levels. Available on iOS and watchOS!</p>
+[Available on the App Store](https://apps.apple.com/us/app/pace-chase/id1458293500)
 <img src="images/PaceChase@2x.png?raw=true"/>
 
 ---
