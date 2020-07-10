@@ -13,17 +13,17 @@ Ambitious and charismatic iOS developer always looking to explore new project op
 ## Personal iOS Projects
 
 Scout
-<p style="font-size:12px">Location-based food and drink forum openly collecting data to deliver live, local specials and fun events to users.</p>
-<img src="images/Scout.png?raw=true"/>
+<p style="font-size:12px">Coming soon! This native iOS application serves as a location-based food and drink forum. It openly collects data from users and private venues/businesses to deliver live and local specials, deals, fun events to users.</p>
+<img src="images/Scout@2x.png?raw=true"/>
 
 ---
 [Pace Chase](https://apps.apple.com/us/app/pace-chase/id1458293500)
-<p style="font-size:12px">Simple race pace and finish time calculator for runners of all levels.</p>
+<p style="font-size:12px">Live worldwide in the App Store (for free), this native iOS application which serves as a simple race pace and finish time calculator for runners of all levels.</p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 Blue Ink
-<p style="font-size:12px">Sharable shopping list, pantry + fridge inventory, and dashboard for all readily available recipes.</p>
+<p style="font-size:12px">Another native iOS application which serves as a minimal dashboard for managing shopping and to-do lists. Whether creating, editing, or sharing lists, Blue Ink allows users to simulatenously work to complete lists across multiple users in realtime.</p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
