@@ -14,7 +14,7 @@ Ambitious and charismatic iOS developer always looking to explore new project op
 
 Scout
 <p style="font-size:12px">Location-based food and drink forum openly collecting data to deliver live, local specials and fun events to users.</p>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Scout.png?raw=true"/>
 
 ---
 [Pace Chase](https://apps.apple.com/us/app/pace-chase/id1458293500)
