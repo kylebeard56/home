@@ -25,6 +25,11 @@
   position: absolute;
 }
 
+.divider-line {
+  width: 150px;
+  //border-top: 1px solid #78B0A0;
+}
+
 .title-text {
   text-align: center;
   padding-top: 5%;
@@ -60,4 +65,5 @@
   color: #78B0A0;
   font-size: 24px;
   font-weight: bold;
+  padding-top: 40px;
 }
