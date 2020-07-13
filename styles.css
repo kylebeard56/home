@@ -105,7 +105,7 @@
 }
 
 .section-content {
-  align-items: flex-start;
+  align-items: center;
   display: flex;
   flex-direction: row;
   padding: 20px;
