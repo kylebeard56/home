@@ -10,7 +10,6 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  overflow-x: hidden;
   overflow-y: auto
   padding: 20px;
 }
@@ -131,16 +130,39 @@
   border-radius: 50px;
 }
 
+.recording {
+  height: 650px;
+  padding: 20px;
+  border-radius: 40px;
+}
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.image-stack {
+  display: flex;
+  flex-direction: column;
+}
+
 .scrolling-image {
   height: 500px;
   padding: 20px;
   border-radius: 40px;
 }
 
+.image-display {
+  width: 150px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
 .scrollable-images {
-  width: 100%;
-  max-width: 1344px;
+  width: 90%;
+  //max-width: 1344px;
   overflow: auto;
   overflow-y: hidden;
-  white-space: nowrap;
+  white-space: initial;
 }
