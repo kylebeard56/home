@@ -10,7 +10,7 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  overflow-y: auto
+  overflow: auto;
   padding: 20px;
 }
 
